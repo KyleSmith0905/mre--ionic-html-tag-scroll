@@ -3,5 +3,6 @@
   "integrations": {
     "capacitor": {}
   },
+  "statusTap": true,
   "type": "angular"
 }
